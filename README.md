@@ -1,3 +1,5 @@
+![Screenshot_20231129_112313](https://github.com/dakshvarshneyy/pnot-miniproj/assets/107689714/65239933-7ad8-4348-bcab-b173fd4584c8)
+
 # Overview
 
 Welcome to the "pnot-miniproj" project, a comprehensive chat application with PDF integration. This project is designed to provide a seamless chat experience where users can upload PDF files, create chats around them, and interact with an AI assistant. The AI assistant uses the OpenAI API to generate responses based on the chat context.
